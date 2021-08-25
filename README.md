@@ -1,0 +1,5 @@
+- 👋 Hi, I’m *@tokenarium-io*
+- 👀 I’m building myself to be a great blockchain platform
+- 🌱 I’m currently working on my basics
+- 💞️ I’ll soon be looking for blockchain developers
+- <img src="https://img.icons8.com/ios/50/000000/cardano.png" height=20px/> Did someone say Cardano ????
